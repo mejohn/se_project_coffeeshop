@@ -1,0 +1,16 @@
+.page {
+    min-width: 1100px;
+    max-width: 1600px;
+    margin: 0 auto;
+    font-family: "Inter", "Arial", sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+/*
+    #ffffff main background, contrast font color
+    #838383 input borders and placeholders
+    #000000 main font color
+    #6f6f6f hours and address
+    #2f80ed accent, button
+ */
