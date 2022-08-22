@@ -8,6 +8,7 @@
     padding: 100px 0 215px 80px;
 }
 .recipes__title {
+    margin: 0;
     font-weight: 500;
     font-size: 44px;
     line-height: 52px;
@@ -25,6 +26,8 @@
     display: flex;
     justify-content: center;
     column-gap: 40px;
+    list-style: none;
+    padding: 0;
 }
 .recipe__video {
     margin: 0;
@@ -33,6 +36,7 @@
     width: 480px;
     height: 273px;
     margin: 0 0 24px;
+    border: none;
 }
 .recipes__video-caption {
     font-weight: 500;

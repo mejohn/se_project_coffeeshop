@@ -32,4 +32,6 @@
     flex-flow: row wrap;
     column-gap: 100px;
     row-gap: 100px;
+    list-style: none;
+    padding: 0;
 }

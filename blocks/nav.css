@@ -6,17 +6,16 @@
 .nav__links {
     list-style: none;
     padding-left: 0;
-    margin: 0;
+    margin: 0 80px 0 0;
     display: flex;
     align-items: center;
     column-gap: 20px;
-    position: relative;
-    right: 80px;
+
 }
 .nav__link {
     color: #000000;
     text-decoration: none;
-    font-weight: bold;
+    font-weight: 500;
     transition: color .5s;
 }
 .nav__link:hover {
