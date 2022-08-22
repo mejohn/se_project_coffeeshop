@@ -54,10 +54,10 @@
     justify-content: space-between;
     align-items: flex-end;
 }
-.header__paragraph_content_hours {
+.header__paragraph-content-hours {
     margin: auto 0 0;
 }
-.header__paragraph_content_address {
+.header__paragraph-content-address {
     margin: auto 0 0;
 }
 .header__paragraph-text {
