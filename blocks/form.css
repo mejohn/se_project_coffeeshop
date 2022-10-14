@@ -20,6 +20,7 @@
     border-radius: 4px;
     /* this looks more like the brief than just changing the color */
     border: 1px solid #838383;
+    padding-left: 15px;
 }
 .form__input::placeholder {
     color: #838383;
